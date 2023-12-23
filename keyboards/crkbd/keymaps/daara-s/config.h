@@ -31,3 +31,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define QUICK_TAP_TERM 0
 #define TAPPING_TERM 200
 
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
