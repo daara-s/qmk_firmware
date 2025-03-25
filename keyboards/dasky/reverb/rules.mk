@@ -5,3 +5,5 @@ SRC += graphics/splash.qgf.c
 SRC += graphics/reverb.qgf.c
 SRC += graphics/display.c
 SRC += graphics/robotomono20.qff.c
+
+CAPS_WORD_ENABLE = yes
